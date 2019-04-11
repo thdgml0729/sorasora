@@ -6,5 +6,6 @@ public class Main_Test {
 		System.out.println("되라되라");
 		System.out.println("되는데??");
 		System.out.printf("우리는 %d명", 3);
+		System.out.printf("우리는 %d명", 3);
 	}
 }
